@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 1184108209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 200f6f89ea7537d1100871631862f1df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f67857048d3793b8f2f1b312dacb36ac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86bd0d3098d25db4c9c839739557480b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5e48d93b64a9ae4f9fd5a728c8f51af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a379f34d4f4f2e408d34f14bfb753ce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 151f9be47337d9e4daef0b8725e30eab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b2fc1498442023409ccd04c3abff60e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type0 01.prefab
+- Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type1 04.prefab
+- Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type4 05.prefab
+- Assets/Oculus/Interaction/Runtime/Prefabs/TouchHandGrab/HandSphereMap.prefab
+- Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type3 04.prefab
+- Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type4 04.prefab
+- Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type0 03.prefab
+- Assets/Acorn Bringer Assets/Simplistic Low Poly Nature/Prefabs/SCharacter_Butterfly.prefab
+- Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab
+- Assets/BrokenVector/LowPolyTreePack/Prefabs/Tree Type0 05.prefab
+Dependencies:
+- C:/Users/Andreas/diss/OVRAssetBundles/OVRMasterBundle/asset_dae0
+- C:/Users/Andreas/diss/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Andreas/diss/OVRAssetBundles/OVRMasterBundle/asset_mat0

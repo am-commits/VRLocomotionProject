@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 544265672
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c76c54e62a452ebe95b1619a2f7143f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22357172b8cea85847937e8f62d0c077
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+- Packages/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat
+- Assets/Acorn Bringer Assets/Simplistic Low Poly Nature/Materials/Simplistic_Nature_Material.mat
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01.mat
+- Assets/Oculus/Interaction/Runtime/Materials/TransparentStandard.mat
+- Assets/BrokenVector/LowPolyTreePack/Materials/Normal.mat
+Dependencies:
+- C:/Users/Andreas/diss/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Andreas/diss/OVRAssetBundles/OVRMasterBundle/asset_shader0

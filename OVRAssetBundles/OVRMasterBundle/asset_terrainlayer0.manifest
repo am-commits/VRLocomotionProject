@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1716930217
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0ff5ee8524a35009fda9656e4f5e280
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e870fe55c515b71bfbc233cfbec83308
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Acorn Bringer Assets/Simplistic Low Poly Nature/Materials/NewLayer.terrainlayer
+Dependencies:
+- C:/Users/Andreas/diss/OVRAssetBundles/OVRMasterBundle/asset_png0

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1013087381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f726c70f6c5f6f366bcdeb0a21157f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ad06958797749336e5782b9470fdf713
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 05.dae
+- Assets/BrokenVector/LowPolyTreePack/Models/Tree Type4 04.dae
+- Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 01.dae
+- Assets/BrokenVector/LowPolyTreePack/Models/Tree Type4 05.dae
+- Assets/BrokenVector/LowPolyTreePack/Models/Tree Type0 03.dae
+- Assets/BrokenVector/LowPolyTreePack/Models/Tree Type1 04.dae
+- Assets/BrokenVector/LowPolyTreePack/Models/Tree Type3 04.dae
+Dependencies:
+- C:/Users/Andreas/diss/OVRAssetBundles/OVRMasterBundle/asset_mat0

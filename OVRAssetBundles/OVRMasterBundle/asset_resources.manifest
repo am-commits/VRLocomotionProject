@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2825040980
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ffd84eed350276d6de6f10cdced29b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b6a89d3d4926f662b91aa37af6f1d2d1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad074644ff568a14187a3690cfbd7534, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3d881e962d099f4a8eb492ef7e9a8c0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3863570e7e6387a40ae4f323d83291e5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_AlphaBlended.shader
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_Underlay_AA.shader
+- Assets/Resources/OVRBuildConfig.asset
+- Assets/Oculus/Voice/Lib/Wit.ai/Resources/continue-with-fb.png
+- Assets/Oculus/VR/Resources/OVRMRUnlitTransparent.shader
+- Assets/Resources/OculusRuntimeSettings.asset
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/UIOverlay.shader
+- Assets/Resources/ONSPSettings.asset
+- Assets/Oculus/Voice/Lib/Wit.ai/Resources/wit-ai-title.png
+- Assets/Oculus/VR/Resources/Cubemap Blit.shader
+- Assets/Resources/OculusPlatformSettings.asset
+- Assets/Oculus/VR/Resources/OVRMRUnlit.shader
+- Assets/Easy Grab VR/Resources/SVOutlineMaterial.mat
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/UnderlayTransparentOccluderImposter.shader
+- Assets/Oculus/VR/Resources/Unlit Transparent Color.shader
+- Assets/Oculus/Voice/Lib/Wit.ai/Resources/witai_texts_en-us.json
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_Underlay.shader
+- Assets/Oculus/VR/Resources/OVRMRCameraFrameLit.shader
+- Assets/Oculus/Voice/Resources/voicesdk_heroart.png
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_Opaque.shader
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_AlphaToMask.shader
+- Assets/Resources/OVRPlatformToolSettings.asset
+- Assets/Oculus/VR/Resources/Underlay Transparent Occluder.shader
+- Assets/Oculus/VR/Resources/Texture2D Blit.shader
+- Assets/Oculus/Voice/Lib/Wit.ai/Resources/witai.png
+- Assets/Oculus/VR/Resources/OVRMRCameraFrame.shader
+- Assets/Oculus/Voice/Resources/voicesdk_texts_en-us.json
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/Imposter_AlphaCutout.shader
+- Assets/Oculus/VR/Resources/Underlay Impostor.shader
+- Assets/Oculus/Interaction/Runtime/Resources/Shaders/DepthOverwrite.shader
+Dependencies: []

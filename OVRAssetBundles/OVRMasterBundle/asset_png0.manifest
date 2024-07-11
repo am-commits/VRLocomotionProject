@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 475461275
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f183d1eeb63a958b2561ff831da14ce7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BrokenVector/LowPolyTreePack/Textures/Colorsheet Tree Cold.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Back-Z.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Left+X.png
+- Assets/Fantasy Skybox FREE/Scenes/Texture_Grass_Diffuse.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Up+Y.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Right-X.png
+- Assets/Acorn Bringer Assets/Simplistic Low Poly Nature/Textures/Simplistic_Nature_Texture.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Front+Z.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Down-Y.png
+- Assets/Toby Fredson/Hand Painted Tiles - SleepingForest/Textures/PT_Textures/SleepingForest_NormalMaps/SleepingForest_Generic_GrassHigh_Normal.png
+Dependencies: []

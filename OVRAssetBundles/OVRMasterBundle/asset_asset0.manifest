@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1145900491
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e9608a61acad272780ea280506fd3709
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0d3249d9038c56dc1a126053b6657dde
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/New Terrain.asset
+Dependencies:
+- C:/Users/Andreas/diss/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- C:/Users/Andreas/diss/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/Andreas/diss/OVRAssetBundles/OVRMasterBundle/asset_terrainlayer0
